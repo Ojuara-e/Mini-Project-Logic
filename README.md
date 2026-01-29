@@ -51,9 +51,9 @@ Open the notebook directly on GitHub to explore logic exercises and code samples
 
 ### 📌 Option 2 — Run Locally
 1. Clone the repository:
-   ```bash
+   ````
    git clone https://github.com/Ojuara-e/Mini-Project-Logic.git
-````
+   ````
 
 2. Navigate to the directory:
 
